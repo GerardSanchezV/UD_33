@@ -16,6 +16,6 @@ Archivos del proyecto
 
 ![Captura4](https://user-images.githubusercontent.com/103039385/172157244-37f2ec88-7b54-49e3-a128-687f103305c7.PNG)
 
-Estensiones
+Extensiones
 
 ![5](https://user-images.githubusercontent.com/103039385/172157589-8132530c-aceb-415e-b517-50aca24a65a9.PNG)
